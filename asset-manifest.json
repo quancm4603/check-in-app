@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/check-in-app/static/css/main.f855e6bc.css",
-    "main.js": "/check-in-app/static/js/main.6b5b0d3c.js",
+    "main.css": "/check-in-app/static/css/main.e6c13ad2.css",
+    "main.js": "/check-in-app/static/js/main.62578fbb.js",
     "static/js/787.6c84fe2f.chunk.js": "/check-in-app/static/js/787.6c84fe2f.chunk.js",
-    "static/media/logo.svg": "/check-in-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/check-in-app/index.html",
-    "main.f855e6bc.css.map": "/check-in-app/static/css/main.f855e6bc.css.map",
-    "main.6b5b0d3c.js.map": "/check-in-app/static/js/main.6b5b0d3c.js.map",
+    "main.e6c13ad2.css.map": "/check-in-app/static/css/main.e6c13ad2.css.map",
+    "main.62578fbb.js.map": "/check-in-app/static/js/main.62578fbb.js.map",
     "787.6c84fe2f.chunk.js.map": "/check-in-app/static/js/787.6c84fe2f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.6b5b0d3c.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.62578fbb.js"
   ]
 }
