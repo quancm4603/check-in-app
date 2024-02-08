@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/check-in-app/static/css/main.e6c13ad2.css",
-    "main.js": "/check-in-app/static/js/main.62578fbb.js",
-    "static/js/787.6c84fe2f.chunk.js": "/check-in-app/static/js/787.6c84fe2f.chunk.js",
-    "index.html": "/check-in-app/index.html",
-    "main.e6c13ad2.css.map": "/check-in-app/static/css/main.e6c13ad2.css.map",
-    "main.62578fbb.js.map": "/check-in-app/static/js/main.62578fbb.js.map",
-    "787.6c84fe2f.chunk.js.map": "/check-in-app/static/js/787.6c84fe2f.chunk.js.map"
+    "main.css": "/static/css/main.e6c13ad2.css",
+    "main.js": "/static/js/main.5ca212da.js",
+    "static/js/787.6c84fe2f.chunk.js": "/static/js/787.6c84fe2f.chunk.js",
+    "index.html": "/index.html",
+    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
+    "main.5ca212da.js.map": "/static/js/main.5ca212da.js.map",
+    "787.6c84fe2f.chunk.js.map": "/static/js/787.6c84fe2f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.62578fbb.js"
+    "static/js/main.5ca212da.js"
   ]
 }
